@@ -1,0 +1,92 @@
+﻿distance,cab_type,time_stamp,destination,source,price,surge_multiplier,id,product_id,name
+1.11,Uber,1.54E+12,West End,North End,12,1,009e9c53-074d-43cf-aef2-0fbc7a47ed3d,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+1.11,Uber,1.54E+12,West End,North End,16,1,23f145da-f0c1-4d1f-a184-496bc003a7db,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+1.11,Uber,1.54E+12,West End,North End,7.5,1,357559cb-8c58-4278-a41a-e33b2e0997a3,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+1.11,Uber,1.55E+12,West End,North End,7.5,1,50ef1165-9d23-416c-a65c-18906207b295,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+1.11,Uber,1.64E+12,West End,North End,26,1,91c4861c-1780-42b0-bca1-bbd64a422cc3,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+1.11,Uber,1.54E+12,West End,North End,5.5,1,e219e545-a006-4936-a6cc-7d00adf0e418,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+1.11,Uber,1.54E+12,West End,North End,,1,fa5fb705-03a0-4eb9-82d9-7fe80872f754,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+2.48,Uber,1.55E+12,South Station,Beacon Hill,8.5,1,1d451059-895c-4179-8cec-40adfbc4f6d3,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+2.48,Uber,1.54E+12,South Station,Beacon Hill,15,1,1f64fcff-b01f-4b64-90f4-5c866d717317,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+2.48,Uber,1.54E+12,South Station,Beacon Hill,20.5,1,2ca4699c-21e1-4fb4-9cc2-1d6221199d08,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+2.48,Uber,1.54E+12,South Station,Beacon Hill,8.5,1,4149295f-4534-4712-b2cf-160308528c75,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+2.48,Uber,1.55E+12,South Station,Beacon Hill,7,1,80d2a972-2686-4edc-bc22-ddccdf211fde,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+2.48,Uber,1.54E+12,South Station,Beacon Hill,27.5,1,8674e79f-4c5b-4a2e-8327-a68997d5d740,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+2.48,Uber,1.54E+12,South Station,Beacon Hill,,1,eee70d94-6706-4b95-a8ce-0e34f0fa8f37,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+2.94,Uber,1.54E+12,Fenway,North Station,29.5,1,39f120bf-ddc0-4d27-8ab4-bb7d46ecf8e3,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+2.94,Uber,1.54E+12,Fenway,North Station,9.5,1,4d36b792-8973-4dd2-aaf9-aacaac046bd5,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+2.94,Uber,1.54E+12,Fenway,North Station,15,1,53bc8bc7-0b27-4648-9742-d7956d2a13a8,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+2.94,Uber,1.54E+12,Fenway,North Station,,1,7f47ff53-7cf2-4a6a-8049-83c90e042593,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+2.94,Uber,1.54E+12,Fenway,North Station,9.5,1,c05d4e09-3f00-43cf-a0d8-6f38c0f4d04a,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+2.94,Uber,1.54E+12,Fenway,North Station,22,1,c7d4bb19-3c35-46c7-ad3c-f00a03ccfdfe,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+2.94,Uber,1.54E+12,Fenway,North Station,9,1,d25c46f2-b8a3-454d-97d1-4e2c8e1dff68,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+1.16,Uber,1.54E+12,West End,North End,,1,43abdbe4-ab9e-4f39-afdc-31cfa375dc25,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+1.16,Uber,1.54E+12,West End,North End,9.5,1,5e1deff9-8f75-4e77-a1b1-7f6749e4eed3,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+1.16,Uber,1.54E+12,West End,North End,16.5,1,a6d2d9af-e412-4ec0-8206-88e272b5a14e,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+1.16,Uber,1.54E+12,West End,North End,7,1,c53e48e4-a7b6-43e9-b4f4-afadc78dc2aa,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+1.16,Uber,1.54E+12,West End,North End,9.5,1,c9dee6ef-eca0-43ba-9bf9-ec00a6638164,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+1.16,Uber,1.54E+12,West End,North End,27.5,1,e209499c-d217-4ea8-b72a-8a879646b29a,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+1.16,Uber,1.54E+12,West End,North End,13,1,fc3205bd-3419-40db-b00f-ddced9beff33,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+2.67,Uber,1.55E+12,Beacon Hill,North End,9.5,1,26cd4b22-179f-48db-a03f-2cc8c87d624e,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+2.67,Uber,1.54E+12,Beacon Hill,North End,9.5,1,5ed9f6ab-4582-45c6-a1de-5602e911c3bb,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+2.67,Uber,1.54E+12,Beacon Hill,North End,,1,80db1c49-9d51-4575-a4f4-1ec23b4d3e31,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+3.39,Uber,1.54E+12,North Station,Boston University,9.5,1,0617e9b6-45f9-4f45-aa2b-5d06da008088,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+3.39,Uber,1.54E+12,North Station,Boston University,9.5,1,37b99b0e-d2a9-4aa6-b145-54de1c8793eb,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+3.39,Uber,1.54E+12,North Station,Boston University,17,1,433900c1-12d0-4771-85ea-1e1f1a4a6d63,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+3.39,Uber,1.54E+12,North Station,Boston University,10,1,76ec209b-45a1-47e7-9eda-bc3a22402b8e,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+3.39,Uber,1.55E+12,North Station,Boston University,34,1,a841f68a-a00f-456a-a3f2-2a4f2f2917d6,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+3.39,Uber,1.54E+12,North Station,Boston University,26,1,aaf17c52-066b-4449-abac-274132b8ffbf,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+3.39,Uber,1.54E+12,North Station,Boston University,,1,c0bffbdc-9f15-4822-bda5-77d293a8d77e,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+3.39,Uber,1.55E+12,North Station,Boston University,18.5,1,2effa2c2-6728-4274-b904-199a9fc830c4,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+3.39,Uber,1.54E+12,North Station,Boston University,11,1,5ef55ad4-49da-4698-8d41-21f89d107085,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+3.39,Uber,1.54E+12,North Station,Boston University,11,1,67f791f9-5bf4-4490-9358-95ffda17e5ea,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+3.39,Uber,1.54E+12,North Station,Boston University,,1,6af89d7d-7c7e-45fe-98c4-3dc432bb29b4,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+3.39,Uber,1.54E+12,North Station,Boston University,11,1,806fc0cf-814d-48aa-abe7-47d0eedf47d4,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+3.39,Uber,1.54E+12,North Station,Boston University,36,1,bcb04ae7-e199-495f-a22e-4f24dcf9088c,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+3.39,Uber,1.55E+12,North Station,Boston University,27.5,1,ef16279b-5893-4ea1-bf62-0548a6a541e7,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+2.49,Uber,1.54E+12,Back Bay,South Station,25,1,118a8165-c787-4761-89e5-a17aa5710c75,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+2.49,Uber,1.54E+12,Back Bay,South Station,12,1,14fd1233-8cea-4061-a66a-9a5ecec07f66,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+2.49,Uber,1.55E+12,Back Bay,South Station,12,1,2a98223c-db41-4d28-9f8a-f26775b12fd4,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+2.49,Uber,1.54E+12,Back Bay,South Station,18.5,1,3a2929f1-2310-4c96-8eeb-ca2ed3ad9915,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+2.49,Uber,1.54E+12,Back Bay,South Station,,1,42dd31b8-d488-4de6-8dd1-544d6f943149,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+2.49,Uber,1.54E+12,Back Bay,South Station,32.5,1,c1463da2-43e9-4e83-a52f-eb4fbe9d85e6,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+2.49,Uber,1.54E+12,Back Bay,South Station,11,1,e5face72-4e1e-499e-89db-6a136e11f7f5,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+3.07,Uber,1.54E+12,North Station,Fenway,27,1,08a28a48-eec5-43f8-b81d-bc2f57fc7f9a,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+3.07,Uber,1.54E+12,North Station,Fenway,12,1,1f384d44-39fa-4537-b6a9-e97c0420fc48,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+3.07,Uber,1.54E+12,North Station,Fenway,18.5,1,408076ed-a826-4fb3-a602-f9940df0ae50,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+3.07,Uber,1.54E+12,North Station,Fenway,,1,4b22b1b6-5d22-476c-bcf9-571afb6b5a4b,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+3.07,Uber,1.54E+12,North Station,Fenway,12,1,6fad93ae-e127-4e63-92e8-aca70075a4ae,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+3.07,Uber,1.55E+12,North Station,Fenway,8.5,1,c8e81408-c663-41b0-97d8-01de32dddefd,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+3.07,Uber,1.54E+12,North Station,Fenway,35,1,f5f46cb2-dc51-4ed7-bd0e-14469d2da879,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+1.57,Uber,1.54E+12,North End,Theatre District,8,1,8cfbdbf9-4aa0-453b-ae4e-2fd9b4a90ffa,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+1.57,Uber,1.54E+12,North End,Theatre District,,1,974fd7df-31d1-4f61-9aad-5c3b853a4368,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+1.57,Uber,1.54E+12,North End,Theatre District,13,1,a385d39d-6add-45e7-8144-d208173f5528,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+1.57,Uber,1.54E+12,North End,Theatre District,8,1,a9448a0b-977b-47c4-b886-b9ff39e6983c,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+1.57,Uber,1.54E+12,North End,Theatre District,27,1,ae1e0b34-e9aa-4d7f-9b5f-228d966cb911,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+1.57,Uber,1.54E+12,North End,Theatre District,17,1,ca00c0ed-bc14-4558-af18-5be6001f14e2,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+1.57,Uber,1.54E+12,North End,Theatre District,8,1,ff9d06a6-3ac8-4692-b154-1fd97fb0ac93,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+3.2,Uber,1.54E+12,Northeastern University,West End,13.5,1,00dc269c-2990-402b-b834-9fe0cede0bae,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+3.2,Uber,1.54E+12,Northeastern University,West End,23.5,1,17fc2426-4a0c-4305-bc55-a2d4e08417da,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+3.2,Uber,1.54E+12,Northeastern University,West End,14,1,68589ddd-984f-4cda-adce-b69ed39695d8,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+3.2,Uber,1.54E+12,Northeastern University,West End,34,1,95f75de8-f788-4d4e-991d-771c73720a4c,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+3.2,Uber,1.54E+12,Northeastern University,West End,26.5,1,b54ea4d2-96e6-4ac3-ae04-6f55d2199dec,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+3.2,Uber,1.55E+12,Northeastern University,West End,14,1,b85bee69-de7b-443f-aff5-c98a1e48ebed,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+3.2,Uber,1.54E+12,Northeastern University,West End,,1,e36f3312-05fc-4ba0-8a33-84ddc108643b,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+3.61,Uber,1.54E+12,Back Bay,North End,26.5,1,174e8ad4-163e-4a6a-94e9-502df39fbc20,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+3.61,Uber,1.54E+12,Back Bay,North End,12,1,2c692c6d-0b72-4987-bac5-7be5f0833267,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+3.61,Uber,1.54E+12,Back Bay,North End,11,1,2de5725b-55ea-4d90-9a1d-5bc113bb047b,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+3.61,Uber,1.54E+12,Back Bay,North End,19.5,1,5de2313d-3772-4f3e-95be-6b518d21ccf1,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+3.61,Uber,1.54E+12,Back Bay,North End,12,1,8f56fb33-f2e3-4571-94a4-2e429eb077b6,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+3.61,Uber,1.54E+12,Back Bay,North End,38.5,1,9246e691-25f1-4642-a51e-8021b01760c5,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+3.61,Uber,1.54E+12,Back Bay,North End,,1,e34c8f86-cf63-4904-a87b-476d5041eda9,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+3.05,Uber,1.54E+12,Fenway,North Station,23,1,04727769-94b3-4c50-8cc2-71afd369d249,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+3.05,Uber,1.54E+12,Fenway,North Station,30.5,1,0e3e2a8c-f22d-4958-bbf1-af5064d0bfcc,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV
+3.05,Uber,1.54E+12,Fenway,North Station,10.5,1,2b443af3-246f-4b12-956c-8025dced5b3d,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
+3.05,Uber,1.54E+12,Fenway,North Station,10.5,1,669bcc82-6f6b-4d0e-a0b7-8756c7e4da68,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+3.05,Uber,1.54E+12,Fenway,North Station,,1,a40156d9-4564-4c86-9f2a-3490101fb123,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi
+3.05,Uber,1.55E+12,Fenway,North Station,17.5,1,ad7238f1-0a0f-4c13-b671-d498b390d3b6,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+3.05,Uber,1.54E+12,Fenway,North Station,10,1,cb398c74-4965-4dd8-af0f-381fd5e74daa,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool
+2.32,Uber,1.55E+12,North End,Back Bay,14,1,0cd01858-da20-49ce-b079-d0a27f225c9b,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL
+2.32,Uber,1.54E+12,North End,Back Bay,20.5,1,10436f60-110d-4ffc-b261-e3ed262aec75,6c84fd89-3f11-4782-9b50-97c468b19529,Black
+2.32,Uber,1.55E+12,North End,Back Bay,9.5,1,1609c275-bacc-4d6a-be79-1ce48dff3c01,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV
+2.32,Uber,1.55E+12,North End,Back Bay,9.5,1,88c309eb-4f98-4410-bf60-2d2f1113abe2,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX
